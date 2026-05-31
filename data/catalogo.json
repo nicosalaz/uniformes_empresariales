@@ -1,0 +1,36 @@
+[
+  {
+    "numero": "04",
+    "icono": "👔",
+    "titulo": "Industrial",
+    "descripcion": "Identificación de marca, excelente presentación e imagen personal, seguridad, comodidad y funcionalidad operativa.",
+    "tags": [
+      "Comercial",
+      "Bodega y empaque.",
+      "Transporte"
+    ],
+    "imagenes": [
+      "img/industrial1.jpg",
+      "img/industrial2.jpg",
+      "img/industrial3.jpg",
+      "img/industrial4.jpg"
+    ]
+  },
+  {
+    "numero": "05",
+    "icono": "👕",
+    "titulo": "Corporativo",
+    "descripcion": "Uniformes para oficinas con enfoque en elegancia, identidad y comodidad.",
+    "tags": [
+      "Ventas",
+      "Administrativo",
+      "Atención al cliente"
+    ],
+    "imagenes": [
+      "img/corporativo1.jpg",
+      "img/corporativo2.jpg",
+      "img/corporativo3.jpg",
+      "img/corporativo4.jpg"
+    ]
+  }
+]
