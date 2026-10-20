@@ -36,8 +36,6 @@ function renderCatalogo(data, containerId) {
       photo.className = "photo-slot";
 
       photo.innerHTML = `
-        <div class="photo-slot-num">Foto ${index + 1}</div>
-        <div class="photo-slot-icon">📷</div>
         ${
           img
             ? `<img src="${img}" alt="Foto ${index + 1}" style="width:100%; border-radius:8px;" />`
@@ -58,8 +56,8 @@ function renderCatalogo(data, containerId) {
 }
 
 $(document).ready(function () {
-  alert("Se carga la página");
-  fetch("data/catalogo.json")
+  // alert("Se carga la página");
+  fetch("../data/catalogo.json")
     .then((response) => response.json())
     .then((data) => {
       renderCatalogo(data, "cat-expanded");

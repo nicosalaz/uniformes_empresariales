@@ -1,8 +1,25 @@
 [
   {
-    "numero": "04",
+    "numero": "01",
     "icono": "👔",
-    "titulo": "Industrial",
+    "titulo": "Administración y Comercial",
+    "descripcion": "Camisa clásica + pantalón ejecutivo. Elegancia que impulsa tu desempeño y proyecta confianza en ti mismo.",
+    "tags": [
+      "Corporativo",
+      "Diseños Estilizados",
+      "Tela premium"
+    ],
+    "imagenes": [
+      "./img/1. Administrativos .png",
+      "./img/2. Administrativos.png",
+      "./img/4. Comerciales.jpeg",
+      "./img/5. Comerciales.png"
+    ]
+  },
+  {
+    "numero": "02",
+    "icono": "👔",
+    "titulo": "Logística",
     "descripcion": "Identificación de marca, excelente presentación e imagen personal, seguridad, comodidad y funcionalidad operativa.",
     "tags": [
       "Comercial",
@@ -10,27 +27,59 @@
       "Transporte"
     ],
     "imagenes": [
-      "img/industrial1.jpg",
-      "img/industrial2.jpg",
-      "img/industrial3.jpg",
-      "img/industrial4.jpg"
+      "./img/6. Logistica.png",
+      "./img/7. Logística.png",
+      "./img/8. Logística.png",
+      "./img/9. Chalecos.jpg",
+      "./img/10. Chaleco.png"
+    ]
+  },
+  {
+    "numero": "03",
+    "icono": "👔",
+    "titulo": "Antifluidos",
+    "descripcion": "Identificación de marca, excelente presentación e imagen personal, seguridad, comodidad y funcionalidad operativa.",
+    "tags": [
+      "Comercial",
+      "Bodega y empaque.",
+      "Transporte"
+    ],
+    "imagenes": [
+      "./img/11. Antifluídos.png",
+      "./img/12. Antifluído.png",
+      "./img/13. Antifluídos.png"
+    ]
+  },
+  {
+    "numero": "04",
+    "icono": "👔",
+    "titulo": "Alimentos",
+    "descripcion": "Identificación de marca, excelente presentación e imagen personal, seguridad, comodidad y funcionalidad operativa.",
+    "tags": [
+      "Comercial",
+      "Bodega y empaque.",
+      "Transporte"
+    ],
+    "imagenes": [
+      "./img/14. Alimentos.png",
+      "./img/15. Alimentos Térmico.png",
+      "./img/16 Impulsadoras.png"
     ]
   },
   {
     "numero": "05",
     "icono": "👕",
-    "titulo": "Corporativo",
-    "descripcion": "Uniformes para oficinas con enfoque en elegancia, identidad y comodidad.",
+    "titulo": "Industrial",
+    "descripcion": "Identificación de marca, excelente presentación e imagen personal, seguridad, comodidad y funcionalidad operativa.",
     "tags": [
       "Ventas",
       "Administrativo",
       "Atención al cliente"
     ],
     "imagenes": [
-      "img/corporativo1.jpg",
-      "img/corporativo2.jpg",
-      "img/corporativo3.jpg",
-      "img/corporativo4.jpg"
+      "./img/17. Oficios Generales.png",
+      "./img/19. Industriales.png",
+      "./img/20. Industriales.png"
     ]
   }
 ]
