@@ -10,10 +10,10 @@
       "Tela premium"
     ],
     "imagenes": [
-      "./img/1. Administrativos .png",
-      "./img/2. Administrativos.png",
-      "./img/4. Comerciales.jpeg",
-      "./img/5. Comerciales.png"
+      "./assets/img/1. Administrativos .png",
+      "./assets/img/2. Administrativos.png",
+      "./assets/img/4. Comerciales.jpeg",
+      "./assets/img/5. Comerciales.png"
     ]
   },
   {
@@ -27,11 +27,11 @@
       "Transporte"
     ],
     "imagenes": [
-      "./img/6. Logistica.png",
-      "./img/7. Logística.png",
-      "./img/8. Logística.png",
-      "./img/9. Chalecos.jpg",
-      "./img/10. Chaleco.png"
+      "./assets/img/6. Logistica.png",
+      "./assets/img/7. Logística.png",
+      "./assets/img/8. Logística.png",
+      "./assets/img/9. Chalecos.jpg",
+      "./assets/img/10. Chaleco.png"
     ]
   },
   {
@@ -45,9 +45,9 @@
       "Transporte"
     ],
     "imagenes": [
-      "./img/11. Antifluídos.png",
-      "./img/12. Antifluído.png",
-      "./img/13. Antifluídos.png"
+      "./assets/img/11. Antifluídos.png",
+      "./assets/img/12. Antifluído.png",
+      "./assets/img/13. Antifluídos.png"
     ]
   },
   {
@@ -61,9 +61,9 @@
       "Transporte"
     ],
     "imagenes": [
-      "./img/14. Alimentos.png",
-      "./img/15. Alimentos Térmico.png",
-      "./img/16 Impulsadoras.png"
+      "./assets/img/14. Alimentos.png",
+      "./assets/img/15. Alimentos Térmico.png",
+      "./assets/img/16 Impulsadoras.png"
     ]
   },
   {
@@ -77,9 +77,9 @@
       "Atención al cliente"
     ],
     "imagenes": [
-      "./img/17. Oficios Generales.png",
-      "./img/19. Industriales.png",
-      "./img/20. Industriales.png"
+      "./assets/img/17. Oficios Generales.png",
+      "./assets/img/19. Industriales.png",
+      "./assets/img/20. Industriales.png"
     ]
   }
 ]

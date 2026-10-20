@@ -57,7 +57,7 @@ function renderCatalogo(data, containerId) {
 
 $(document).ready(function () {
   // alert("Se carga la página");
-  fetch("../data/catalogo.json")
+  fetch("./js/catalogo.json")
     .then((response) => response.json())
     .then((data) => {
       renderCatalogo(data, "cat-expanded");
