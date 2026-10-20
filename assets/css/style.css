@@ -96,6 +96,8 @@ body {
 
 .hero-stats {
   display: flex;
+  flex-flow: column nowrap;
+  justify-content: baseline;
   gap: 60px;
   opacity: 0;
   animation: fadeUp 0.8s 0.8s forwards;
